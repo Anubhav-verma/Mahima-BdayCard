@@ -1,5 +1,5 @@
 :root {
-    --backgorund-theme-color: rgb(27, 24, 24);
+    --backgorund-theme-color: rgb(27, 25, 24);
     --theme-color: #10f5a9;
     --theme-color-2: #FD2155;
 }
@@ -139,7 +139,7 @@ span:hover {
     }
 
     to {
-        color: #10f5a9;
+        color: var(--theme-color);
     }
 }
 
