@@ -33,7 +33,7 @@ span:hover {
     color: var(--theme-color);
 }
 
-.openbtn:hover {}
+
 
 .Introduction,
 #Hi,
@@ -155,10 +155,6 @@ span:hover {
 
 
 
-.sidelinks {
-    /*border-style: solid;
-    border-width: 0.5px 0px 0.5px 0px;*/
-}
 
 .greeting {
     transition: font-size 1s, color 1s;
