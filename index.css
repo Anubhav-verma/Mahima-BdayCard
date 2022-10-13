@@ -423,7 +423,7 @@ span:hover {
 
 .box-copy {
     margin: 10px;
-    border-radius: 20px;
+    border-radius: 50%;
     width: 60px;
     height: 60px;
     background: #f0f0f0;
