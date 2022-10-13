@@ -38,9 +38,7 @@ function about(Id, alignment) {
 
 }
 
-if (screen.width <= 700) {
-    document.getElementById("Home").innerHTML = 'Skills';
-}
+
 
 /*var skills = ["JavaScript", "Python", "C#", "Robot Framework"];
 
